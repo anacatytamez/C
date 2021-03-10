@@ -12,11 +12,10 @@ main ()
     {
       switch (c)		/*sentencia de la variable tipo int*/
 	{
-
-	case '(':
+          case '(':
 	  parentesis = TRUE;
 	  putchar (c);
-      break;
+          break;
       
 	case '[':
 	  parentesis = TRUE;
@@ -30,11 +29,10 @@ main ()
 	  parentesis = TRUE;
 	  putchar (c);
       
-
 	case ')':
 	  parentesis = FALSE;
 	  putchar (c);
-      break;
+          break;
       
 	case ']':
 	  parentesis = FALSE;
@@ -80,13 +78,7 @@ main ()
 		    }
 		}
 	    }
-
-
-
-
 	}
     }
-
-
   return 0;
 }
