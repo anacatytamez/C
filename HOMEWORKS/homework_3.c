@@ -1,4 +1,5 @@
-/*https://www.youtube.com/watch?v=9xLRPrX42uk*/
+/*https://www.youtube.com/watch?v=9xLRPrX42uk  -> para entender mejor como funciona la sentencia "switch"*/
+/*Raul me explico la parte del default*/
 #include <stdio.h>
 
 #define FALSE 0
