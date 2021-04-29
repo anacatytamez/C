@@ -15,4 +15,3 @@ node* insert(char* u, char* p, node* pos, int d);
 void alpha(node* position); 
 void delete(node* position, char* u, char* p, int* n);
 
-/*based in Satu Elisa Schaeffer's program*/
