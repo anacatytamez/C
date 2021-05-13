@@ -10,5 +10,5 @@ Capture which material was used and how many
 
 Print the result of the data to know if its necessary to buy or not material
 
-##### By Anacatalina Tamez (anacatytamez)
+###### By Anacatalina Tamez (anacatytamez)
 
