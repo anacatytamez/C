@@ -43,7 +43,7 @@ With help of an ExA_FIME: Cesar Tamez
 
 3: code 3 (it's very neat)
 
-4: storage 2 (adjusts to the ones you occupy)
+4: storage 2 
 
 5: documentation 2 (video has not the best quality)
 
