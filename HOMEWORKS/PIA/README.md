@@ -45,9 +45,9 @@ With help of an ExA_FIME: Cesar Tamez
 
 4: storage 2 (adjusts to the ones you occupy)
 
-5: documentation 3 (video has not the best quality)
+5: documentation 2 (video has not the best quality)
 
-Final Score 11/15
+Final Score 10/15
 
 ###### By Anacatalina Tamez (anacatytamez)
 
