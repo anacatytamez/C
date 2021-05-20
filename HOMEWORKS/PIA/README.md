@@ -37,9 +37,9 @@ Kernighan, B. W., & Ritchie, D. M. (1988). C Programming Language, 2nd Edition (
 With help of an ExA_FIME: Cesar Tamez
 
 #### Autoevaluation
-1: complexity 1 (not so complex, it is a combination of different functions)
+1: complexity 2 (not so complex as other programs we have made)
 
-2: functionality 2 (sometimes the order of how the options are selected causes the execution to finish, I do not know why in Online GDB the menu doesn't executes)
+2: functionality 2 (sometimes the order of how the options are selected causes the execution to finish)
 
 3: code 3 (it's very neat)
 
@@ -47,7 +47,7 @@ With help of an ExA_FIME: Cesar Tamez
 
 5: documentation 2 (video has not the best quality)
 
-Final Score 11/15
+Final Score 12/15
 
 ###### By Anacatalina Tamez (anacatytamez)
 
