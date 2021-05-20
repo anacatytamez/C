@@ -1,8 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <header.h>
 #define MAX 5 /*cantidad de productos que se pueden registrar*/
 
+struct Ficha
+{
+char cd;
+char Snom[20];
+ int cn;
+ int c;
+} 
 
 nom,Inv[MAX];
 
