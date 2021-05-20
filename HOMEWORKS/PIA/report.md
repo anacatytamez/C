@@ -1,9 +1,9 @@
 # PIA: Cake Shop Inventory
 
-First of all, an inventory is a term used to know what you have to sell as well as to know the raw material that you have in stock. In this program you can enter different products or materials with their respective quantity and cost, in this case is a maximum of 5 products/materials but it can be changed at the moment you want. You can also edit your product, such as the name, quantity or cost, print only one product or all of them as well as print the inventory value for one or all the materials.
+First of all, an inventory is a term used to know what you have to sell as well as to know the raw material that you have in stock. In this program you can enter different products or materials with their respective quantity and cost, in this case is a maximum of 3 products/materials but it can be changed at the moment you want. You can also print only one product or all of them as well as print the inventory value for one or all the materials.
 
 ### Youtube video
-
+https://youtu.be/H_sWB0Tp8IU
 
 #### References/Information Sources
 Inventory. (n.d.). Investopedia. Retrieved May 19, 2021, from https://www.investopedia.com/terms/i/inventory.asp
