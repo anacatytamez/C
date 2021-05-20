@@ -39,7 +39,7 @@ With help of an ExA_FIME: Cesar Tamez
 #### Autoevaluation
 1: complexity 2 (not so complex but not so easy)
 
-2: functionality 3 (sometimes the order of how the options are selected causes the execution to finish)
+2: functionality 3 (sometimes the order of how the options are selected causes the execution to finish, I do not know why in Online GDB the menu doesn't executes)
 
 3: code 3 (it's very neat)
 
