@@ -13,13 +13,21 @@ Print the inventory value
 # Plan
 * **Menu**: in this section you will find 6 options, 
 - Product Registration [1]
-- Print data of only one product by introducing the code that was automatically generated[2]
+- Print data of only one product [2]
 - Print all the products introduced [3]
-- Print the inventory value of only one product with the same system as in option 2 [3]
-- Print the total inventory value [4]
-* **
+- Print the inventory value of only one product  [5]
+- Print the total inventory value [5]
+- Exit [6]
+
+* **[1]Product Registration**: in this option you're asked to enter the name, amount and cost of the product
+* **[2]Print a product**: is needed to introduce a code that was automatically generated.
+* **[3]Print all products**: only pulse the option needed, in this case 3.
+* **[4]Print inventory**: this option works the same as option 2, this will printout the result of an operation (cn*c).
+* **[5]Print total inventory**: as in option 3 it is only necessary to type the # of option, 5.
+* **[6]Exit**: the program will stop
+
 ### Youtube video
-https://youtu.be/mdos6lG9K0U
+https://youtu.be/v0OYTFxAoyI
 
 #### References/Information Sources
 Inventory. (n.d.). Investopedia. Retrieved May 19, 2021, from https://www.investopedia.com/terms/i/inventory.asp
@@ -30,5 +38,5 @@ With help of an ExA_FIME: Cesar Tamez
 
 ###### By Anacatalina Tamez (anacatytamez)
 
-###### By Anacatalina Tamez (anacatytamez)
+
 
