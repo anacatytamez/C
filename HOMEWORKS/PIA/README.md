@@ -36,6 +36,14 @@ Kernighan, B. W., & Ritchie, D. M. (1988). C Programming Language, 2nd Edition (
 
 With help of an ExA_FIME: Cesar Tamez
 
+#### Autoevaluation
+1: complexity 2 (not so complex but not so easy)
+2: functionality 3 (sometimes the order of how the options are selected causes the execution to finish)
+3: code 3 (it's very neat)
+4: storage 3 (adjusts to the ones you occupy)
+5: documentation 1 (video has not the best quality)
+Final Score 12/15
+
 ###### By Anacatalina Tamez (anacatytamez)
 
 
